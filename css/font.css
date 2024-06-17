@@ -1,0 +1,139 @@
+/* Roboto */
+
+@font-face {
+    font-family: Roboto-Black;
+    src: url('../font/Roboto/Roboto-Black.ttf');
+}
+
+
+@font-face {
+    font-family: Roboto-Italic;
+    src: url('../font/Roboto/Roboto-Italic.ttf');
+}
+
+
+@font-face {
+    font-family: Roboto-Light;
+    src: url('../font/Roboto/Roboto-Light.ttf');
+}
+
+
+@font-face {
+    font-family: Roboto-Medium;
+    src: url('../font/Roboto/Roboto-Medium.ttf');
+}
+
+
+@font-face {
+    font-family: Roboto-Regular;
+    src: url('../font/Roboto/Roboto-Regular.ttf');
+}
+
+
+@font-face {
+    font-family: Roboto-Thin;
+    src: url('../font/Roboto/Roboto-Thin.ttf');
+}
+
+
+/* Figtree */
+
+@font-face {
+    font-family: Figtree-Bold;
+    src: url('../font/Figtree/Figtree-Bold.woff2');
+}
+
+
+@font-face {
+    font-family: Figtree-Italic;
+    src: url('../font/Figtree/Figtree-Italic.woff2');
+}
+
+
+@font-face {
+    font-family: Figtree-Light;
+    src: url('../font/Figtree/Figtree-Light.woff2');
+}
+
+
+@font-face {
+    font-family: Figtree-Medium;
+    src: url('../font/Figtree/Figtree-Medium.woff2');
+}
+
+
+@font-face {
+    font-family: Figtree-Regular;
+    src: url('../font/Figtree/Figtree-Regular.woff2');
+}
+
+
+@font-face {
+    font-family: Figtree-SemiBold;
+    src: url('../font/Figtree/Figtree-SemiBold.woff2');
+}
+
+
+
+/* Barlow */
+
+@font-face {
+    font-family: Barlow-Black;
+    src: url('../font/Barlow/Barlow-Black.ttf');
+}
+
+
+@font-face {
+    font-family: Barlow-Bold;
+    src: url('../font/Barlow/Barlow-Bold.ttf.ttf');
+}
+
+
+@font-face {
+    font-family: Barlow-ExtraBold;
+    src: url('../font/Barlow/Barlow-ExtraBold.ttf');
+}
+
+
+@font-face {
+    font-family: Barlow-ExtraLight;
+    src: url('../font/Barlow/Barlow-ExtraLight.ttf');
+}
+
+
+@font-face {
+    font-family: Barlow-Italic;
+    src: url('../font/Barlow/Barlow-Italic.ttf');
+}
+
+
+@font-face {
+    font-family: Barlow-Light;
+    src: url('../font/Barlow/Barlow-Light.ttf');
+}
+
+
+@font-face {
+    font-family: Barlow-Medium;
+    src: url('../font/Barlow/Barlow-Medium.ttf');
+}
+
+
+@font-face {
+    font-family: Barlow-Regular;
+    src: url('../font/Barlow/Barlow-Regular.ttf');
+}
+
+
+@font-face {
+    font-family: Barlow-SemiBold;
+    src: url('../font/Barlow/Barlow-SemiBold.ttf');
+}
+
+
+@font-face {
+    font-family: Barlow-Thin;
+    src: url('../font/Barlow/Barlow-Thin.ttf');
+}
+
+
